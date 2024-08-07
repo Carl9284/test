@@ -806,8 +806,8 @@ const sendReminder = (job) => {
             day = "Monday"
             msgTitle.push("Agropur: Milk and Butter")
             msgTitle.push("Montreal Request: Tart Cups")
-            msgTitle.push("Agropur: Tart Cheese")
-            msgValue.push("Order Before 2:30PM")
+            msgTitle.push("Tree of Life: Tart Cheese")
+            msgValue.push("Order 3 days before needed")
             msgValue.push("Send Request by the end of Today")
             msgValue.push("Order Before 2:00PM")
             break;
